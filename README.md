@@ -1,2 +1,2 @@
-# RINI_JOHNY_Portfolio-
+# Rini_Johny_Portfolio-
 My projects
